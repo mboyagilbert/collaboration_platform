@@ -1,0 +1,164 @@
+/* general css */
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@200&display=swap');
+.cont60{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Josefin Sans', sans-serif;
+}
+body{
+    padding: 0;
+    margin: 0;
+    
+}
+.p0{
+    color: rgb(224, 114, 224);
+}
+.p1{
+    color: purple;
+}
+.p2{
+    color: rgb(59, 7, 59);
+}
+.p3{
+    color: rgb(29, 11, 29);
+}
+.p0_bg{
+    background: rgb(224, 114, 224);
+}
+.p1_bg{
+    background: purple;
+}
+.p2_bg{
+    background: rgb(59, 7, 59);
+}
+.p3_bg{
+    background: rgb(29, 11, 29);
+}
+.t05{
+    background: rgba(0, 0, 0, 0.5);
+}
+.t06{
+    background: rgba(0, 0, 0, 0.6);
+}
+.t07{
+    background: rgba(0, 0, 0, 0.7);
+}
+.t08{
+    background: rgba(0, 0, 0, 0.8);
+}
+.t09{
+    background: rgba(0, 0, 0, 0.9);
+}
+.bold{
+    font-weight: bold;
+}
+.w-50{
+    width: 50%;
+}
+.w-60{
+    width: 60%;
+}
+.w-70{
+    width: 60%;
+}
+.w-80{
+    width: 80%;
+}
+.w-100{
+    width: 100%;
+}
+.h-50{
+    height: 50vh;
+}
+.h-60{
+    height: 60vh;
+}
+.h-70{
+    height: 60vh;
+}
+.h-80{
+    height: 80vh;
+}
+.h-100{
+    height: 100vh;
+}
+.serif{
+    font-family: serif;
+}
+.cont1{
+    background: url('../images/student6.jpg');
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont0{
+    background: url('../images/student6.jpg');
+    height: 30vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont2{
+    height: 80vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont7{
+    background: url('../images/student7.jpg');
+    height: 40vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont70{
+    background: rgba(0, 0, 0, 0.7);
+    height: 40vh;
+    width: 100%;
+}
+.cont20{
+    height: 30vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.cont4
+{
+    background: url('../images/evaluator8.jpg');
+    height: 80%;
+    width: 80%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.footer{
+    background: url('../images/evaluator.jpg');
+    height: 30vh;
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h-30{
+    height: 30vh;
+}
+ul{
+    list-style-type: none;
+}
+ul li a{
+    text-decoration: none;
+    color: blanchedalmond;
+}
+.raise:hover, .cont11:hover{
+    margin-top: -12vh;
+    cursor: pointer;
+}
